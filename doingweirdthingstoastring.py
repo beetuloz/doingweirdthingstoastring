@@ -11,3 +11,5 @@ def doingweirdthingstoastring(string):
 
 
 doingweirdthingstoastring(before)
+
+#after = "Hi mY NaMe iS JoHn aNd i aM LeArNiNg pYtHoN"
